@@ -1,0 +1,26 @@
+.full{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.game_container{
+	display: grid;
+	grid-template-columns: repeat(7, 40px);
+	grid-template-rows: repeat(7, 40px);
+	gap: 1px;
+}
+
+.piece{
+	width: 40px;
+	height: 40px;
+	background-color: grey;
+}
+
+.score_container{
+	font-size: 25 px;
+	font-weight: 600;
+	text-align: center;
+}
+
