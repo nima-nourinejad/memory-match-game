@@ -2,7 +2,8 @@
 
 
 
-Welcome to the Memory Match Game! This game is designed to test and improve your memory skills by challenging you to find all the active pieces within a grid. 
+Welcome to the Memory Match Game! This game is designed to test and improve your memory skills by challenging you to find all the active pieces within a grid.
+https://nima-nourinejad.github.io/memory-match-game/
 
 ## Table of Contents
 
